@@ -1,0 +1,27 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "An app to show spotify, omdb, and twitter information",
+  "main": "keys.js",
+  "dependencies": {
+    "fs": "0.0.2",
+    "inquirer": "^1.1.0",
+    "request": "^2.72.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MonicaSzabo/Liri-Node-App.git"
+  },
+  "author": "Monica Szabo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MonicaSzabo/Liri-Node-App/issues"
+  },
+  "homepage": "https://github.com/MonicaSzabo/Liri-Node-App#readme"
+}
